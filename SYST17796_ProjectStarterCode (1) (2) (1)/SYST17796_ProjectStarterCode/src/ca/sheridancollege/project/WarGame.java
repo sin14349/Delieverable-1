@@ -2,7 +2,7 @@ package ca.sheridancollege.project;
 import java.util.ArrayList;
 
 /**
- * @author Davinder Singh
+ * @author Davinder 
  *  * A class that models the War card game.
  */
 public class WarGame extends Game {
